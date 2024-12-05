@@ -78,7 +78,7 @@ int get_safe_count(const char* filename, uint32_t* count){
 
     int info = 0;
     *count = 0;
-    char line[MAXWIDTH];
+    char line[MAXLINE];
     uint32_t Nlevels;
     uint32_t found_safe;
 

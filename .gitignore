@@ -2,6 +2,8 @@
 .DS_Store
 .venv/
 *.dSYM
+[Pp]art1
+[Pp]art2
 
 *.out
 *.txt
